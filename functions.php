@@ -1,7 +1,5 @@
 function add_target_blank_to_follow_us() {
     ?>
-    <script type="text/javascript">
-        jQuery(document).ready(function($) {
 <script type="text/javascript">
             document.addEventListener('DOMContentLoaded', function() {
                 console.log('Document loaded');
